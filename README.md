@@ -1,12 +1,11 @@
 ![Imagem Topo](./.github/assets/logo-topo.png)
 
 <h2 align="center">
-    Hello, world. 👋
+   Object Oriented Paradigm Challenge. 👋
 </h2>
 
 <p align="center">
-    <b>I'm Thyago, passionate about different areas of this wonderful world of technology.</b>
-</p>
+    <b>Digital innovation's Object Oriented Programming Challenge, concepts about the paradigm were discussed.</b>
 
 <p align="center">
     Welcome to my github, here you will find my projects and collaborations for the open source world.
@@ -16,7 +15,7 @@
 
 <p align="center">
     <p align="center">
-    <i>You can find me or contact me through these networks:</i>
+    <!--<i>You can find me or contact me through these networks:</i>-->
     <br/><br/>
     <a href="https://github.com/Thyagoj7/Thyagoj7" target="_blank">
         <img src="https://img.shields.io/badge/-Github-000?logo=github&style=for-the-badge&logoColor=white" alt="Bradge Github" />
